@@ -24,7 +24,7 @@ I'm a software developer developer by trade, mainly with Linux, Java, C# & Pytho
 - Unit testing saves lives.
 - Well written code should flow as easily as paragraphs in a book. 
 - Good communication is just as important as well-written software.
-- Perserverance. No problem is ever solved without it.
+- Perserverance. No problem ever gets solved without it.
  
  ### Main languages / Operating systems
 
