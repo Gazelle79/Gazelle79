@@ -1,4 +1,4 @@
-### Hello.
+### ✨ _Greetings._ I'm Frederick.✨
 
 <!--
 **Gazelle79/Gazelle79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,16 +19,17 @@ I'm a software developer developer by trade, mainly with Linux, Java, C# & Pytho
 
 ### My values
 
- - All knowledge starts with asking the right questions.
- - Taking more time to lay out / design software properly at the start means you won't everything later.
- - Unit testing saves lives.
- - Well written code should flow as easily as paragraphs in a book. 
- - Good communication is just as important as well-written software. 
+- Solving any problem starts with asking the _right_ questions.
+- Taking more time to lay out / design software properly at the start means you won't everything later.
+- Unit testing saves lives.
+- Well written code should flow as easily as paragraphs in a book. 
+- Good communication is just as important as well-written software.
+- Perserverance. No problem is ever solved without it.
  
  ### Main languages / Operating systems
 
- - Java
- - C#
- - Python
- - Linux (Mint, CentOs, Ubuntu)
- - Windows 10
+- `Java`
+- `C#`
+- `Python`
+- `Linux (Mint, CentOs, Ubuntu)`
+- `Windows 10`
