@@ -20,7 +20,7 @@ I'm a software developer developer by trade, mainly with Linux, Java, C# & Pytho
 ### My values
 
 - Solving any problem starts with asking the _right_ questions.
-- Taking more time to lay out / design software properly at the start means you won't everything later.
+- Taking more time to lay out / design software properly at the start means you won't REWRITE EVERYTHING later.
 - Unit testing saves lives.
 - Well written code should flow as easily as paragraphs in a book. 
 - Good communication is just as important as well-written software.
