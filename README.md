@@ -33,3 +33,11 @@ I'm a software developer developer by trade, mainly with Linux, Java, C# & Pytho
 - `Python`
 - `Linux (Mint, CentOs, Ubuntu)`
 - `Windows 10`
+- `XML`
+
+
+ ### Frameworks
+
+- `Django`
+- `Asp.Net` (moving away from this)
+- `Spring boot` (very new to it, not willing to put on resume)
