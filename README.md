@@ -1,8 +1,4 @@
-### :octocat: _Greetings._ I'm Frederick. :octocat:
-
-<!--
-**Gazelle79/Gazelle79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### :octocat: __Greetings.__ I'm Frederick. :octocat:
 
 I'm a software developer developer, mainly with Linux, Java, C# & Python. Much of my work is back-end, but I can do full stack development. I'm a fan of world football :soccer:, distance running :sparkles:, animation :pen:, and unit testing :computer:. Unit testing saves lives.
 
@@ -31,4 +27,11 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 * `Django`
 * `Asp.Net` (moving away from this)
 * `Spring boot` (very new to it, not willing to put on resume)
-* `Stanford Core NLP'
+* `Stanford Core NLP`
+
+
+ ### Code samples you should see
+
+* `Pricer`
+* `BowlingScore` 
+* `CardReader` 
