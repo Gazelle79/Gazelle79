@@ -13,21 +13,21 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
  
  ### :speech_balloon: Main languages / Operating systems
 
-* `Java`
-* `C#`
-* `Python`
-* `Linux (Mint, CentOs, Ubuntu)`
-* `Windows 10`
-* `XML`
-* `SQL`
+- [x] `Java`
+- [x] `C#`
+- [x] `Python`
+- [x] `Linux (Mint, CentOs, Ubuntu)`
+- [x] `Windows 10`
+- [x] `XML`
+- [x] `SQL`
 
 
  ### :speech_balloon: Frameworks
 
-* `Django`
-* `Asp.Net` (moving away from this)
-* `Spring boot` (very new to it, not willing to put on resume)
-* `Stanford Core NLP`
+- [x] `Django`
+- [x] `Asp.Net` (moving away from this)
+- [x] `Spring boot` (very new to it, not willing to put on resume)
+- [x] `Stanford Core NLP`
 
 
  ### :heavy_exclamation_mark: Code samples
