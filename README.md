@@ -1,6 +1,6 @@
-### :octocat: __Greetings.__ I'm Frederick. :octocat:
+### :octocat: __I'm Frederick.__ :octocat:
 
-I'm a software developer developer, mainly with Linux, Java, C# & Python. Much of my work is back-end, but I can do full stack development. I'm a fan of world football :soccer:, distance running :sparkles:, animation :pen:, and unit testing :computer:. Unit testing saves lives.
+__I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my work is back-end, but I can do full stack development. I'm a fan of world football :soccer:, distance running :sparkles:, animation :pen:, and unit testing :computer:. Unit testing saves lives.
 
 ### :key: My values
 
