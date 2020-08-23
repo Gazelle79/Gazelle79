@@ -2,7 +2,7 @@
 
 I'm a software developer developer, mainly with Linux, Java, C# & Python. Much of my work is back-end, but I can do full stack development. I'm a fan of world football :soccer:, distance running :sparkles:, animation :pen:, and unit testing :computer:. Unit testing saves lives.
 
-### My values
+### :key: My values
 
 - Solving any problem starts with asking the _right_ questions.
 - Taking more time to design software properly at the start means you won't REWRITE EVERYTHING later.
@@ -11,7 +11,7 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 - Good communication is just as important as well-written software.
 - If I know a language, I can learn any framework that uses it. I prioritize knowing a language over a framework.
  
- ### Main languages / Operating systems
+ ### :speech_balloon: Main languages / Operating systems
 
 * `Java`
 * `C#`
@@ -22,7 +22,7 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 * `SQL`
 
 
- ### Frameworks
+ ### :speech_balloon: Frameworks
 
 * `Django`
 * `Asp.Net` (moving away from this)
@@ -30,8 +30,8 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 * `Stanford Core NLP`
 
 
- ### Code samples you should see
+ ### :heavy_exclamation_mark: Code samples
 
-* `Pricer`
-* `BowlingScore` 
-* `CardReader` 
+* https://github.com/Gazelle79/Pricer
+* https://github.com/Gazelle79/BowlingScore 
+* https://github.com/Gazelle79/CardReader 
