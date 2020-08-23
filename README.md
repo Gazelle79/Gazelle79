@@ -13,7 +13,7 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 - Unit testing saves lives.
 - Well written code should flow as easily as paragraphs on a page. 
 - Good communication is just as important as well-written software.
-- If I know a language, I can learn any framework surrounding it. I emphasize knowing a language over a framework.
+- If I know a language, I can learn any framework that uses it. I prioritize knowing a language over a framework.
  
  ### Main languages / Operating systems
 
@@ -23,6 +23,7 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 * `Linux (Mint, CentOs, Ubuntu)`
 * `Windows 10`
 * `XML`
+* `SQL`
 
 
  ### Frameworks
@@ -30,3 +31,4 @@ I'm a software developer developer, mainly with Linux, Java, C# & Python. Much o
 * `Django`
 * `Asp.Net` (moving away from this)
 * `Spring boot` (very new to it, not willing to put on resume)
+* `Stanford Core NLP'
