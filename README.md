@@ -11,7 +11,7 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 - Good communication is just as important as well-written software.
 - If I know a language, I can learn any framework that uses it. I prioritize knowing a language over a framework.
  
- ### :speech_balloon: Programming languages 
+### :speech_balloon: Programming languages 
 
 - [x] `Java`
 - [x] `C#`
@@ -26,12 +26,12 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 - [x] `Ubuntu`
 - [x] `Windows 10` 
  
-  ### :speech_balloon: Databases
+### :speech_balloon: Databases
 
 - [x] `SQL Server`
 - [x] `MySQL`
 
- ### :speech_balloon: Frameworks
+### :speech_balloon: Frameworks
 
 - [x] `Django`
 - [x] `Asp.Net` (moving away from this)
