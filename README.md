@@ -11,16 +11,25 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 - Good communication is just as important as well-written software.
 - If I know a language, I can learn any framework that uses it. I prioritize knowing a language over a framework.
  
- ### :speech_balloon: Main languages / Operating systems
+ ### :speech_balloon: Programming languages 
 
 - [x] `Java`
 - [x] `C#`
 - [x] `Python`
-- [x] `Linux (Mint, CentOs, Ubuntu)`
-- [x] `Windows 10`
 - [x] `XML`
 - [x] `SQL`
 
+ ### :speech_balloon: Operating Systems
+
+- [x] `Linux Mint`
+- [x] `CentOS`
+- [x] `Ubuntu`
+- [x] `Windows 10` 
+ 
+  ### :speech_balloon: Databases
+
+- [x] `SQL Server`
+- [x] `MySQL`
 
  ### :speech_balloon: Frameworks
 
