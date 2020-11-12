@@ -5,11 +5,11 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 ### :key: My values
 
 - Solving any problem starts with asking the _right_ questions.
-- Taking more time to design software properly at the start means you won't REWRITE EVERYTHING later.
+- Take more time to design software properly at the start. You won't have to rewrite EVERYTHING later.
 - Unit testing saves lives.
 - Well written code should flow as easily as paragraphs on a page. 
 - Good communication is just as important as well-written software.
-- Knowing a language is more important than any framework. If I know a language, I can learn any framework that uses it.
+- Knowing a language > knowing a framework. If I know a language, I can learn any framework that uses it.
 - Frameworks change. Fundamentals don't.
  
 ### :speech_balloon: Programming languages 
