@@ -4,8 +4,8 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 
 ### :key: My values
 
-- Solving any problem means asking the _right questions_ before there's a single line of code.
-- Take more time to design software properly at the start. You won't have to rewrite EVERYTHING later.
+- Solving any problem means asking the _right questions_ before writing _any_ code.
+- Take longer to design software properly at the start. You won't have to rewrite EVERYTHING later.
 - Unit testing saves lives.
 - Well written code should flow as easily as paragraphs on a page. 
 - Good communication is just as important as well-written software.
