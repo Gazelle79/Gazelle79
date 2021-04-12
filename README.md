@@ -1,6 +1,6 @@
 ### :octocat: __I'm Frederick.__ :octocat:
 
-__I'm a developer, mainly with Linux, Java, C# & Python.__ Much of my work is recent back-end. Very comfortable with full stack development. I'm a fan of:
+__I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent work is back-end, but I'm very comfortable with full stack development. I'm a fan of:
 
 - [x] World football ⚽ 
 - [x] Distance running / world track & field 🎽
@@ -43,6 +43,11 @@ __I'm a developer, mainly with Linux, Java, C# & Python.__ Much of my work is re
 - [x] `Asp.Net` (moving away from this)
 - [x] `Springboot` (very new to it)
 - [x] `Stanford Core NLP`
+
+### :speech_balloon: Source Control
+
+- [x] `Git`
+- [x] `Subversion`
 
 
  ### :heavy_exclamation_mark: Code samples
