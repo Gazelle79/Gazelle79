@@ -1,20 +1,25 @@
 ### :octocat: __I'm Frederick.__ :octocat:
 
-__I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my work is back-end, but I can do full stack development. I'm a fan of world football :soccer:, distance running :sparkles:, animation :pen:, and unit testing :computer:. Unit testing saves lives.
+__I'm a developer, mainly with Linux, Java, C# & Python.__ Much of my work is recent back-end. Very comfortable with full stack development. I'm a fan of:
+
+- [x] World football :soccer: 
+- [x] Distance running / world track & field 🎽: 
+- [x] Animation :Pen:
+- [x] Unit testing :computer: (It testing saves lives & keeps developers sane.)
 
 ### :key: My values
 
-- Solving any problem means asking the _right questions_ before writing _any_ code.
-- Take longer to design software properly at the start. You won't have to rewrite EVERYTHING later.
+- Solving any problem == asking the _right questions_ before writing __any__ code.
+- Taking time & thought to design software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
 - Unit testing saves lives.
-- Well written code should flow as easily as paragraphs on a page. 
-- Good communication is just as important as well-written software.
-- Knowing a language > knowing a framework. If I know a language, I can learn any framework that uses it.
+- Well written code should flow as smoothly as written language. 
+- Good communication is __just as important__ as well-written software.
+- __Knowing a language > knowing a framework.__ If I know a language, I can learn any framework that uses it.
 - Frameworks change. Fundamentals don't.
  
 ### :speech_balloon: Programming languages 
 
-- [x] `Java`
+- [x] `Java` 
 - [x] `C#`
 - [x] `Python`
 - [x] `XML`
@@ -25,7 +30,7 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 - [x] `Linux Mint`
 - [x] `CentOS`
 - [x] `Ubuntu`
-- [x] `Windows 10` 
+- [x] `Windows` 
  
 ### :speech_balloon: Databases
 
@@ -36,7 +41,7 @@ __I'm a developer developer, mainly with Linux, Java, C# & Python.__ Much of my 
 
 - [x] `Django`
 - [x] `Asp.Net` (moving away from this)
-- [x] `Spring boot` (very new to it, not willing to put on resume)
+- [x] `Springboot` (very new to it)
 - [x] `Stanford Core NLP`
 
 
