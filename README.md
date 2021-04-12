@@ -3,7 +3,7 @@
 __I'm a developer, mainly with Linux, Java, C# & Python.__ Much of my work is recent back-end. Very comfortable with full stack development. I'm a fan of:
 
 - [x] World football :soccer: 
-- [x] Distance running / world track & field 🎽: 
+- [x] Distance running / world track & field 🎽
 - [x] Animation :Pen:
 - [x] Unit testing :computer: (It testing saves lives & keeps developers sane.)
 
