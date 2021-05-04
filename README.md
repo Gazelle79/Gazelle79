@@ -36,6 +36,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 - [x] `SQL Server`
 - [x] `MySQL`
+- [x] `Oracle`
 
 ### :speech_balloon: Frameworks
 
@@ -47,7 +48,10 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 ### :speech_balloon: Source Control
 
 - [x] `Git`
+- [X] `Github`
+- [X] `Gitlab`
 - [x] `Subversion`
+- [X] `Atlassian Tools Suite`
 
 
  ### :heavy_exclamation_mark: Code samples
