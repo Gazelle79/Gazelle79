@@ -5,6 +5,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 - [x] World football ⚽ 
 - [x] Distance running / world track & field 🎽
 - [x] Animation 🖋️
+- [x] Lifting heavy stuff 💪
 - [x] Unit testing 💻 (It testing saves lives.)
 
 ### :key: My values
