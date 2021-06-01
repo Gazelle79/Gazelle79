@@ -12,7 +12,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 - Solving any problem == asking the _right questions_ before writing __any__ code.
 - Taking time & thought to design software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
-- Unit testing saves lives.
+- Again, unit testing saves lives.
 - Well written code should flow as smoothly as paragraphs on a page. 
 - Good communication is __just as important__ as well-written software.
 - __Knowing a language > knowing a framework.__ If I know a language, I can learn any framework that uses it.
@@ -51,7 +51,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 
 #### :exclamation: Please note:
- - I'm moving away from .Net technologies.
+ - I'm moving away from .Net.
  - I'm very new to Spring Boot.
 
 
