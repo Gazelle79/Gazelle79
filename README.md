@@ -47,7 +47,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <!-- Django -->
 <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> <!-- Asp.Net --> 
-<img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <!--Springboot --> 
+<img src = "https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> <!--Springboot --> 
 <!-- <img src = " " /> --> <!-- Stanford Core NLP -->  - Stanford Core NLP
 
 
