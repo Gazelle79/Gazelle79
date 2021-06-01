@@ -18,6 +18,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 - __Knowing a language > knowing a framework.__ If I know a language, I can learn any framework that uses it.
 - Frameworks change. Fundamentals don't.
  
+
 ### :speech_balloon: Programming languages 
 
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <!-- Java -->
@@ -26,7 +27,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <!-- C++ -->
 
 
- ### :speech_balloon: Operating Systems
+### :speech_balloon: Operating Systems
 
 <img src= "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <!-- Linux Mint -->
 <img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <!-- Linux -->
@@ -50,7 +51,6 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <!-- <img src = " " /> --> <!-- Stanford Core NLP -->  - Stanford Core NLP
 
 
-
 ### :speech_balloon: Source Control
 
 <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <!-- Git -->
@@ -67,7 +67,8 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
 <img src= "https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!-- Visual Studio.Net -->
 
- ### :heavy_exclamation_mark: Code samples
+
+### :heavy_exclamation_mark: Code samples
 
 * https://github.com/Gazelle79/Pricer
 * https://github.com/Gazelle79/BowlingScore 
