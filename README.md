@@ -50,11 +50,6 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <!-- <img src = " " /> --> <!-- Stanford Core NLP -->  - Stanford Core NLP
 
 
-#### :exclamation: Please note:
- - I'm moving away from .Net.
- - I'm very new to Spring Boot.
-
-
 
 ### :speech_balloon: Source Control
 
