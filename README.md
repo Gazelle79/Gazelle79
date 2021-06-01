@@ -20,11 +20,11 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
  
 ### :speech_balloon: Programming languages 
 
-- [x] `Java` 
-- [x] `C#`
-- [x] `Python`
-- [x] `XML`
-- [x] `SQL`
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <!-- Java -->
+<img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <!-- C# -->
+<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <!-- Python -->
+<img src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <!-- C++ -->
+
 
  ### :speech_balloon: Operating Systems
 
@@ -35,9 +35,10 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
  
 ### :speech_balloon: Databases
 
-- [x] `SQL Server`
-- [x] `MySQL`
-- [x] `Oracle`
+<img src= "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <!-- SQL Server -->
+<img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <!-- MySQL -->
+<img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <!-- SQL Lite -->
+
 
 ### :speech_balloon: Frameworks
 
