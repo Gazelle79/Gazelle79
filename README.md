@@ -42,26 +42,34 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red" /> <!-- Oracle -->
 
 
+### :speech_balloon: Frameworks
+
+<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <!-- Django -->
+<img src = " " /> <!-- Stanford Core NLP -->
+<img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" /> <!-- Asp.Net --> 
+<img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <!--Springboot --> 
+
+#### :exclamation: Please note:
+ - I'm moving away from .Net technologies.
+ - I'm very new to Spring Boot.
+
+
+
+### :speech_balloon: Source Control
+
+<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <!-- Git -->
+<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <!-- Github -->
+<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> <!-- Gitlab -->
+<img src = "https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> <!-- Bitbucket -->
+
+
 ### :speech_balloon: Dev Environments
+
 <img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <!-- IntelliJ Idea -->
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!-- Eclipse -->
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> <!-- PyCharm -->
 <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
 <img src= "https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!-- Visual Studio.Net -->
-
-### :speech_balloon: Frameworks
-
-- [x] `Django`
-- [x] `Asp.Net` (moving away from this)
-- [x] `Springboot` (very, very new to it)
-- [x] `Stanford Core NLP`
-
-### :speech_balloon: Source Control
-
-<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <!-- Github -->
-<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> <!-- Gitlab -->
-<img src = "https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> <!-- Bitbucket -->
-
 
  ### :heavy_exclamation_mark: Code samples
 
