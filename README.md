@@ -28,17 +28,26 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
  ### :speech_balloon: Operating Systems
 
-- [x] `Linux Mint`
-- [x] `CentOS`
-- [x] `Ubuntu`
-- [x] `Windows` 
+<img src= "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <!-- Linux Mint -->
+<img src= "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <!-- Linux -->
+<img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <!-- Windows -->
+<img src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <!-- Ubuntu Linux -->
+ 
  
 ### :speech_balloon: Databases
 
 <img src= "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <!-- SQL Server -->
 <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <!-- MySQL -->
 <img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <!-- SQL Lite -->
+<img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red" /> <!-- Oracle -->
 
+
+### :speech_balloon: IDE's
+ - IntelliJ
+ - Eclipse
+ - PyCharm
+ - VS Code
+ - Visual Studio.Net
 
 ### :speech_balloon: Frameworks
 
@@ -49,10 +58,10 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 ### :speech_balloon: Source Control
 
-- [x] `Git`
-- [X] `Github`
-- [X] `Gitlab`
-- [x] `Subversion`
+<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <!-- Github -->
+<img src = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> <!-- Gitlab -->
+<img src = "https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> <!-- Bitbucket -->
+
 - [X] `Atlassian Tools Suite`
 
 
