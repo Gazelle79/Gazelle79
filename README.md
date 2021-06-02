@@ -5,7 +5,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 - [x] World football ⚽ 
 - [x] Distance running / world track & field 🎽
 - [x] Animation 🖋️
-- [x] Lifting 🏋️
+- [x] Lifting 💪
 - [x] Unit testing 💻 (It testing saves lives.)
 
 ### :key: My values
@@ -61,7 +61,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 ### :speech_balloon: Dev Environments
 
-<img src = "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <!-- IntelliJ Idea -->
+<img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <!-- IntelliJ Idea -->
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!-- Eclipse -->
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> <!-- PyCharm -->
 <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
