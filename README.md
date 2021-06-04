@@ -2,11 +2,11 @@
 
 __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent work is back-end, but I'm very comfortable with full stack development. I'm a fan of:
 
-- [x] World football ⚽ 
-- [x] Distance running / world track & field 🎽
-- [x] Animation 🖋️
-- [x] Lifting 💪
-- [x] Unit testing 💻 (It testing saves lives.)
+- :soccer: World football 
+- :running_shirt_with_sash: Distance running / world track & field
+- :fountain_pen: Animation
+- :muscle: Lifting
+- :desktop_computer: Unit testing (It testing saves lives.)
 
 ### :key: My values
 
@@ -17,7 +17,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 - Good communication is __just as important__ as well-written software.
 - __Knowing a language > knowing a framework.__ If I know a language, I can learn any framework that uses it.
 - Frameworks change. Fundamentals don't.
- 
+<br/><br/> 
 
 ### :speech_balloon: Programming languages 
 
@@ -72,9 +72,9 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> <!-- PyCharm -->
 <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
 <img src= "https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!-- Visual Studio.Net -->
+<br/><br/>
 
-
-### :heavy_exclamation_mark: Code samples
+### :speech_balloon: Code samples
 
 * https://github.com/Gazelle79/Pricer
 * https://github.com/Gazelle79/BowlingScore 
