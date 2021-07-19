@@ -11,7 +11,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 ### :key: My values
 
 - Solving any problem == asking the _right questions_ before writing __any__ code.
-- Taking time & thought to design software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
+- Designing software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
 - Again, unit testing saves lives.
 - Well written code should flow as smoothly as paragraphs on a page. 
 - Good communication is __just as important__ as well-written software.
