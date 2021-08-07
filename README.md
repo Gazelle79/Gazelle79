@@ -37,7 +37,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
  
 ### :speech_balloon: Databases
 
-<img src= "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <!-- SQL Server -->
+<img src= "https://img.shields.io/badge/SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <!-- SQL Server -->
 <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <!-- MySQL -->
 <img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <!-- SQL Lite -->
 <img src= "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=red" /> <!-- Oracle -->
