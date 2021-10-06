@@ -78,4 +78,5 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 * https://github.com/Gazelle79/Pricer
 * https://github.com/Gazelle79/BowlingScore 
-* https://github.com/Gazelle79/CardReader 
+* https://github.com/Gazelle79/CardReader
+* https://github.com/Gazelle79/AlphabetSoup
