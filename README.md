@@ -6,20 +6,20 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 - :running_shirt_with_sash: Distance running / world track & field
 - :fountain_pen: Animation
 - :muscle: Lifting
-- :desktop_computer: Unit testing (It testing saves lives.)
+- :desktop_computer: Unit testing (It saves lives.)
 
 ### :key: My values
 
 - Solving any problem == asking the _right questions_ before writing __any__ code.
 - Designing software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
-- Again, unit testing saves lives.
+- Again, unit tests save lives.
 - Well written code should flow as smoothly as paragraphs on a page. 
 - Good communication is __just as important__ as well-written software.
 - __Knowing a language > knowing a framework.__ If I know a language, I can learn any framework that uses it.
 - Frameworks change. Fundamentals don't.
 <br/><br/> 
 
-### :speech_balloon: Programming languages 
+### :speech_balloon: Dev Languages 
 
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <!-- Java -->
 <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <!-- C# -->
