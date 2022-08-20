@@ -16,13 +16,13 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 ### :heavy_heart_exclamation: My values
 
-- Solving any problem == asking the _right questions_ before writing __any__ code.
+- Solving any problem == asking the __right questions__ before writing __any__ code.
 - Designing software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
-- Again, unit tests save lives.
+- Unit tests save lives, again.
 - Well written code should flow as smoothly as paragraphs on a page. 
 - Good communication is __just as important__ as well-written software.
 - __Knowing a language > knowing a framework.__ If I know a language, I can learn any framework that uses it.
-- Frameworks change. Fundamentals don't.
+- Frameworks & tools change. Fundamentals don't.
 <br/><br/> 
 
 ### :speech_balloon: Dev Languages 
