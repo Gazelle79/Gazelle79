@@ -8,7 +8,13 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 - :muscle: Lifting
 - :desktop_computer: Unit testing (It saves lives.)
 
-### :key: My values
+### :desktop_computer: Main languages & OS (for now)
+<img src= "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <!-- Linux Mint -->
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <!-- Java -->
+<img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <!-- IntelliJ Idea -->
+
+
+### :heavy_heart_exclamation: My values
 
 - Solving any problem == asking the _right questions_ before writing __any__ code.
 - Designing software properly at the start == __NOT__ rewriting __EVERYTHING__ later.
