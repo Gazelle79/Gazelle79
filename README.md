@@ -12,6 +12,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <img src= "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <!-- Linux Mint -->
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <!-- Java -->
 <img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <!-- IntelliJ Idea -->
+<img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
 
 
 ### :heavy_heart_exclamation: My values
@@ -77,7 +78,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <!-- Eclipse -->
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> <!-- PyCharm -->
 <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
-<img src= "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!-- Visual Studio.Net -->
+<img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> <!-- Visual Studio.Net -->
 <br/><br/>
 
 ### :speech_balloon: Code samples
