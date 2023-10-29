@@ -10,6 +10,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 ### :desktop_computer: Main languages & OS (for now)
 <img src= "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <!-- Linux Mint -->
+<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <!-- Python -->
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <!-- Java -->
 <img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  <!-- IntelliJ Idea -->
 <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><!-- VS Code -->
@@ -83,7 +84,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 ### :speech_balloon: Code samples
 
-* https://github.com/Gazelle79/Pricer
-* https://github.com/Gazelle79/BowlingScore 
-* https://github.com/Gazelle79/CardReader
-* https://github.com/Gazelle79/AlphabetSoup
+* https://github.com/Gazelle79/Pricer - See the cost of buying & selling a stock.
+* https://github.com/Gazelle79/BowlingScore - Track a single bowling score ofver 13 frames.
+* https://github.com/Gazelle79/CardReader - Uses NLP to read a name, email address & phoine number from a business card text file.
+* https://github.com/Gazelle79/AlphabetSoup - A crossword puzzle that finds all words, in all directions.
