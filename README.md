@@ -84,7 +84,7 @@ __I'm an experieced developer, mainly with Linux, Java, C# & Python.__ My recent
 
 ### :speech_balloon: Code samples
 
-* https://github.com/Gazelle79/Pricer - See the cost of buying & selling a stock.
-* https://github.com/Gazelle79/BowlingScore - Track a single bowling score ofver 13 frames.
-* https://github.com/Gazelle79/CardReader - Uses NLP to read a name, email address & phoine number from a business card text file.
-* https://github.com/Gazelle79/AlphabetSoup - A crossword puzzle that finds all words, in all directions.
+* https://github.com/Gazelle79/Pricer - See the cost of buying & selling a stock, at a specific price.
+* https://github.com/Gazelle79/BowlingScore - Track a single bowling score over 13 frames.
+* https://github.com/Gazelle79/CardReader - Uses NLP to read a name, email address & phone number from a business card text file.
+* https://github.com/Gazelle79/AlphabetSoup - A crossword puzzle that finds all words, in all directions, from a list of words.
